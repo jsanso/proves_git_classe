@@ -1,4 +1,3 @@
 <?php
-echo "Prova1 modificada";
-echo "linia nova";
+echo "Adeu prova!";
 ?>
